@@ -1,2 +1,2 @@
 #!/bin/bash
-rev .js
+grep .js
