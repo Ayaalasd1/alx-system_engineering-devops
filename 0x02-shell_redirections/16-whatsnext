@@ -1,3 +1,2 @@
 #!/bin/bash
 root >> /etc/passwd
-tail 3 >> /etc/passwd
