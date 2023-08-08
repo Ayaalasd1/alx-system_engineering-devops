@@ -1,2 +1,2 @@
 #!bin/bash
-find type > one
+wc | 1
