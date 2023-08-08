@@ -1,2 +1,2 @@
 #!bin/bash
-stat . /etc/ssh/sshd_config
+stat a .  /etc/ssh/sshd_config
