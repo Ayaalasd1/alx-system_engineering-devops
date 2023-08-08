@@ -1,2 +1,2 @@
 #!/bin/bash
-stat . a & c
+echo front-(A..C)-back
