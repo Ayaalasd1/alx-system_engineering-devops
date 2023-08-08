@@ -1,2 +1,2 @@
 #!/bin/bash 
-cat tial -1 iacta
+echo tial -1 iacta
